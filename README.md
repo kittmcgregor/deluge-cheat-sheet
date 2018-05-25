@@ -12,6 +12,8 @@
 | Move row      			| Audition pad + hold down & turn ▼▲ knob |
 | Delete row				| Hold Grid pad on row to delete + press Save/Delete |
 
+[link to old cheat sheet pdf](https://synthstrom.com/app/uploads/2018/03/Deluge-Popular_Commands.pdf)
+
 ![alt text](http://forums.synthstrom.com/uploads/editor/2y/z0lpcbgyol4g.png "Logo Title Text 1")
 
 #### Markdown format examples
