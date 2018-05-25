@@ -100,8 +100,7 @@ Standard link =  http://ghost.org
 [Custom Text Link](http://ghost.org)
 
 ---
-
-![Image](https://dl.dropboxusercontent.com/u/41297054/Pic.jpeg)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ---
 
