@@ -1,5 +1,12 @@
-# deluge-cheat-sheet
-deluge cheat sheet
+# Deluge Cheat Sheet
+
+## Kit Tracks
+
+| heading  |  heading |
+| :------------ |:---------------|
+| col 3 is      | Audition pad + turn ▼▲ knob |
+| col 2 is      | content     |
+| zebra stripes | are neat        |
 
 # Heading 1
 ## Heading 2
@@ -94,10 +101,4 @@ Standard link =  http://ghost.org
 
 ---
 
-Table
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
