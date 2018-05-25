@@ -2,7 +2,7 @@
 
 #### Kit Tracks
 
-| heading  |  heading |
+| Function  |  Shortcut |
 | :------------ |:---------------|
 | Change colour of a specific kit row 	| Shift + Audition pad + turn ▼▲ knob |
 | Create new kit 			| Shift + Kit |
