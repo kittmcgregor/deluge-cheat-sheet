@@ -100,7 +100,7 @@ Standard link =  http://ghost.org
 [Custom Text Link](http://ghost.org)
 
 ---
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://forums.synthstrom.com/uploads/editor/2y/z0lpcbgyol4g.png "Logo Title Text 1")
 
 ---
 
