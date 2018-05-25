@@ -1,6 +1,6 @@
 # Deluge Cheat Sheet
 
-## Kit Tracks
+#### Kit Tracks
 
 | heading  |  heading |
 | :------------ |:---------------|
@@ -11,6 +11,9 @@
 | CV trig kit row 			| Audition pad + push and turn Select knob |
 | Move row      			| Audition pad + hold down & turn ▼▲ knob |
 | Delete row				| Hold Grid pad on row to delete + press Save/Delete |
+
+---
+![alt text](http://forums.synthstrom.com/uploads/editor/2y/z0lpcbgyol4g.png "Logo Title Text 1")
 
 # Heading 1
 ## Heading 2
@@ -99,8 +102,7 @@ document.write(today);
 Standard link =  http://ghost.org	
 [Custom Text Link](http://ghost.org)
 
----
-![alt text](http://forums.synthstrom.com/uploads/editor/2y/z0lpcbgyol4g.png "Logo Title Text 1")
+
 
 ---
 
