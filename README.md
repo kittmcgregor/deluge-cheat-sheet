@@ -4,9 +4,13 @@
 
 | heading  |  heading |
 | :------------ |:---------------|
-| col 3 is      | Audition pad + turn ▼▲ knob |
-| col 2 is      | content     |
-| zebra stripes | are neat        |
+| Change colour of a specific kit row 	| Shift + Audition pad + turn ▼▲ knob |
+| Create new kit 			| Shift + Kit |
+| Slice sample				| Shift + Kit, turn Select knob to find sample, Shift + push Select knob |
+| Record sample from input		| Audition pad + Record to start, Record to end |
+| CV trig kit row 			| Audition pad + push and turn Select knob |
+| Move row      			| Audition pad + hold down & turn ▼▲ knob |
+| Delete row				| Hold Grid pad on row to delete + press Save/Delete |
 
 # Heading 1
 ## Heading 2
